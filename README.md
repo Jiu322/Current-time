@@ -1,3 +1,6 @@
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](./README.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](./README_en.md)
+
 # 实时时间显示页面
 
 这是一个极简的实时时间显示页面，自动每秒更新当前时间。
