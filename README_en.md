@@ -1,3 +1,6 @@
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](./README_en.md)
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](./README.md)
+
 # Real-Time Clock Display Page
 
 This is a minimalistic real-time clock display page that automatically updates the current time every second.
